@@ -1,0 +1,44 @@
+#backgroundImage{
+  background: url("./assets/pngtree-artificial-intelligence-future-technology-background-technology-backgroundtechnology-backgroundtechnology-image_73327.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.login-background{
+  background: #c1c1c1;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.loginMargin{
+  margin-top: 10%!important;
+}
+
+.usersignup{
+  background: #fff;
+    border: 1px solid #e5e5e5;
+    padding: 30px;
+    box-shadow: 3px 4px 5px #000000;
+}
+
+.userSignups{
+  height: 100vh;
+}
+
+#signUp{
+  background: url("./assets/pexels-photo-8386440.webp");
+  background-size: cover;
+  background-position: top center;
+}
+
+#homeSection{
+  padding: 45px 0px;
+}
+
+.url-background{
+  background: #fff6;
+  border: 2px solid #000000;
+  padding: 30px;
+  box-shadow: 3px 4px 5px #000000;
+  border-radius: 10px;
+}
